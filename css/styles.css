@@ -133,6 +133,24 @@ body {
     background-color: aquamarine;
 }
 
+.section4 {
+    height: 100%;
+    width: 100%;
+}
+
+.bacground4 {
+    background-color: blue;
+    margin-top: -5px;
+}
+
+.footeriker {
+    background-color: black;
+}
+
+.pfuenteblanca {
+    color: white;
+}
+
 
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
 
