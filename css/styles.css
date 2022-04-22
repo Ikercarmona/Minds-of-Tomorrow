@@ -139,12 +139,14 @@ body {
 }
 
 .bacground4 {
-    background-color: blue;
+    background-color: lightskyblue;
     margin-top: -5px;
+    font-size: 800%;
 }
 
 .footeriker {
     background-color: black;
+    margin-bottom: 5px;
 }
 
 .pfuenteblanca {
